@@ -1,5 +1,6 @@
 # patika_dev_insertion_sort_projesi
  [Patika.dev](https://www.patika.dev/tr) 
+ 
  *1- SORU*
 [22,27,16,2,18,6] -> insertion sort dizilimine göre aşamaları;
 1. adım - [2,27,16,22,18,6] 
